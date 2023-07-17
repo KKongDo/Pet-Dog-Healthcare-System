@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/KongBaekDO</item>
+        <item name="colorPrimaryDark">@color/KongBaekDO</item>
+        <item name="colorAccent">@color/KongBaekDO</item>
+    </style>
+    <style name="ScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/KongBaekDO</item>
+        <item name="colorPrimaryDark">@color/KongBaekDO</item>
+        <item name="colorAccent">@color/KongBaekDO</item>
+        <item name="android:windowBackground">@drawable/screen_background</item>
+    </style>
+
+</resources>

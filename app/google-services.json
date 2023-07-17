@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535780095454",
+    "firebase_url": "https://pdhs-8986c-default-rtdb.firebaseio.com",
+    "project_id": "pdhs-8986c",
+    "storage_bucket": "pdhs-8986c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535780095454:android:e9f30cc379aebf7654994f",
+        "android_client_info": {
+          "package_name": "com.example.kongbaekdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535780095454-e69g8ul4ar4f3p916jvngfvv0rv5sime.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFIgObrNmbmX_Vh1opzWV41hOOczDtF4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535780095454-e69g8ul4ar4f3p916jvngfvv0rv5sime.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

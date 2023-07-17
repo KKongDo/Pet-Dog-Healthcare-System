@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="Dogtype" tools:ignore="ExtraTranslation">
+        <item>골든 리트리버</item>
+        <item>그레이하운드</item>
+        <item>기슈견</item>
+        <item>닥스훈트</item>
+        <item>달마시안</item>
+        <item>포메라니안</item>
+        <item>도베르만 핀셔</item>
+        <item>도사견</item>
+        <item>로트와일러</item>
+        <item>마스티프</item>
+        <item>말티즈</item>
+        <item>미니어처 슈나우저</item>
+        <item>보더콜리</item>
+        <item>불도그</item>
+        <item>불 테리어</item>
+        <item>비글</item>
+        <item>비숑 프리제</item>
+        <item>사모예드</item>
+        <item>삽살개</item>
+        <item>세인트 버나드</item>
+        <item>시추</item>
+        <item>아펜핀셔</item>
+        <item>아프간 하운드</item>
+        <item>웰시 코기</item>
+        <item>웰시 테리어</item>
+        <item>견종을 선택하세요</item>
+    </string-array>
+</resources>

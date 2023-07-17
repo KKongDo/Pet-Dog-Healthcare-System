@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tab1"
+        android:enabled="true"
+        android:icon="@drawable/dog_home"
+        android:title="메인"
+       />
+    <!--  아이콘 이미지 출처:    <a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Freepik - Flaticon</a>-->
+
+    <item
+        android:id="@+id/tab2"
+        android:icon="@drawable/dog_love"
+        android:title="심박수" />
+    <!--  아이콘 이미지 출처 :   <a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Pixel perfect - Flaticon</a>-->
+
+    <item
+        android:id="@+id/tab3"
+        android:icon="@drawable/dog_walk"
+        android:title="산책" />
+    <!--  아이콘 이미지 출처 :  <a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Freepik - Flaticon</a>-->
+
+    <item
+        android:id="@+id/tab4"
+        android:enabled="true"
+        android:icon="@drawable/more"
+        android:title="기타" />
+    <!--  아이콘 이미지 출처:   <a href="https://www.flaticon.com/free-icons/etc" title="etc icons">Etc icons created by bayu015 - Flaticon</a>-->
+
+</menu>

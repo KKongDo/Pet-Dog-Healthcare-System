@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    tools:context=".ProfileActivity">
+
+    <EditText
+        android:id="@+id/DogName"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="136dp"
+        android:background="@drawable/buttona"
+        android:ems="10"
+        android:fontFamily="@font/kopubdotumbold"
+        android:gravity="center"
+        android:hint="반려견 이름"
+        android:inputType="textPersonName"
+        android:textColor="@color/Doc2"
+        android:textColorHint="@color/Doc2"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/Dweight"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/buttona"
+        android:ems="10"
+        android:fontFamily="@font/kopubdotumbold"
+        android:gravity="center"
+        android:hint="체중(kg)"
+        android:inputType="numberDecimal"
+        android:textColor="@color/Doc2"
+        android:textColorHint="@color/Doc2"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/DogName" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Dweight">
+
+        <RadioGroup
+            android:id="@+id/Dogsex"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/male"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonb"
+                android:fontFamily="@font/kopubdotumbold"
+                android:text="수컷 ♂"
+                android:textColor="@color/Doc2"
+                android:textColorHint="@color/Doc2"
+                android:textSize="12sp" />
+
+            <RadioButton
+                android:id="@+id/female"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/buttonb"
+                android:fontFamily="@font/kopubdotumbold"
+                android:text="암컷 ♀"
+                android:textColor="@color/Doc2"
+                android:textSize="12sp" />
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <Spinner
+        android:id="@+id/DogType"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/buttona"
+        android:entries="@array/Dogtype"
+        android:fontFamily="@font/kopubdotumbold"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/DBirth" />
+
+    <TextView
+        android:id="@+id/DBirth"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/buttona"
+        android:fontFamily="@font/kopubdotumbold"
+        android:gravity="center"
+        android:text="생년월일"
+        android:textColor="@color/Doc2"
+        android:textSize="12sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
+    <Button
+        android:id="@+id/Nextb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/Doc1"
+        android:text="다음으로"
+        android:textColor="@color/Doc2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/DogType"
+        app:layout_constraintVertical_bias="0.574" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
