@@ -9,10 +9,8 @@
 ![의료IT학과_학술제_공백도_5](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/625dbb76-ea85-4b2e-9563-048d7cd0ec53)
 ![의료IT학과_학술제_공백도_6](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/4a5b1177-305d-441c-9243-61796717b42f)
 ![의료IT학과_학술제_공백도_7](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/54142e81-03ca-451a-903c-ea25b06f198d)
-![의료IT학과_학술제_공백도_8](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/71df26e4-9610-402c-b5d8-15e6208d8767)
+![의료IT학과_학술제_공백도_8](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/d89fef1f-f732-4985-b895-b50a6a80627f)
+![의료IT학과_학술제_공백도_9](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/6db938d5-1392-486a-83e6-1c065050eb7c)
 ![의료IT학과_학술제_공백도_10](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/5486ddf0-694b-4c99-b53c-511e5f73948b)
 ![의료IT학과_학술제_공백도_11](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/e11140b1-9b6b-40cf-95e3-4c467c15e6f0)
-
-
-
 ![의료IT학과_학술제_공백도_13](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/b325c5d3-b344-4362-932e-e9a8871a048f)
