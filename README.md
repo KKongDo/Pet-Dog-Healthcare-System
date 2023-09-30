@@ -1,8 +1,10 @@
 # PetDog_Healthcare_System
+
 ✏️ **주제** : 스마트 앱과 스마트 하네스와의 Link, 반려견 헬스케어 시스템🐶 <br>
 📆 **개발 기간** : 2022/03/02~2022/12/09 <br>
 👨‍💻 **개발 인원** : 3명<br>
 🕹️ **개발 담당** : UI부(산책 모듈, 정보 제공 모듈), 데이터 계산 처리부, 센서 입출력부, 데이터베이스부 <br>
+
 ---
 ![의료IT학과_학술제_공백도_1](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/ae0abde4-6258-4fa9-9883-b5927beeb176)
 ![의료IT학과_학술제_공백도_2](https://github.com/KKongDo/PetDog_Healthcare_System/assets/132756641/ab7e6c9a-8b45-451c-a60f-3c042d8387bf)
